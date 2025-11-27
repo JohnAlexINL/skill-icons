@@ -101,6 +101,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
 |       `arch`       |     <img src="./icons/Arch-Dark.svg" width="48">      |
 |     `arduino`      |      <img src="./icons/Arduino.svg" width="48">       |
+|       `arm`        |     <img src="./icons/Arm-Dark.svg" width="48">       |
 |      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
 |       `atom`       |        <img src="./icons/Atom.svg" width="48">        |
 |        `au`        |      <img src="./icons/Audition.svg" width="48">      |
@@ -214,6 +215,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `neovim`      |    <img src="./icons/NeoVim-Dark.svg" width="48">     |
 |      `nestjs`      |    <img src="./icons/NestJS-Dark.svg" width="48">     |
 |     `netlify`      |    <img src="./icons/Netlify-Dark.svg" width="48">    |
+|     `netwide`      |    <img src="./icons/Netwide.svg" width="48">         |
 |      `nextjs`      |    <img src="./icons/NextJS-Dark.svg" width="48">     |
 |      `nginx`       |       <img src="./icons/Nginx.svg" width="48">        |
 |       `nim`        |      <img src="./icons/Nim-Dark.svg" width="48">      |
